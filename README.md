@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush-sinh
 - 👀 I’m interested in Back-end Development
-- 🌱 I’m currently learning React.js and Front-end Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning node.js, mongoDB, express and Front-end Development
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me ...
 
 <!---
